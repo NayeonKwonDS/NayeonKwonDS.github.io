@@ -2,20 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nayeonkwonds.github.io/about/</loc>
-    <lastmod>2024-10-22T09:14:05+09:00</lastmod>
+    <loc>//localhost:1313/about-me/</loc>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nayeonkwonds.github.io/</loc>
-    <lastmod>2024-10-22T09:14:05+09:00</lastmod>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nayeonkwonds.github.io/posts/mypost/</loc>
+    <loc>//localhost:1313/portfolio/my-project/</loc>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/portfolio/</loc>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/mypost/</loc>
     <lastmod>2024-10-22T09:05:31+09:00</lastmod>
   </url><url>
-    <loc>https://nayeonkwonds.github.io/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <lastmod>2024-10-22T09:05:31+09:00</lastmod>
   </url><url>
-    <loc>https://nayeonkwonds.github.io/g-mtb5s9vglm/</loc>
+    <loc>//localhost:1313/g-mtb5s9vglm/</loc>
   </url><url>
-    <loc>https://nayeonkwonds.github.io/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
