@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nayeonkwonds.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-22T09:05:31+09:00</lastmod>
   </url><url>
-    <loc>https://nayeonkwonds.github.io/posts/mypost/</loc>
+    <loc>http://localhost:1313/posts/mypost/</loc>
     <lastmod>2024-10-22T09:05:31+09:00</lastmod>
   </url><url>
-    <loc>https://nayeonkwonds.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-10-22T09:05:31+09:00</lastmod>
   </url><url>
-    <loc>https://nayeonkwonds.github.io/about-me/</loc>
+    <loc>http://localhost:1313/about-me/</loc>
   </url><url>
-    <loc>https://nayeonkwonds.github.io/g-mtb5s9vglm/</loc>
+    <loc>http://localhost:1313/g-mtb5s9vglm/</loc>
   </url><url>
-    <loc>https://nayeonkwonds.github.io/my-project/</loc>
+    <loc>http://localhost:1313/my-project/</loc>
   </url><url>
-    <loc>https://nayeonkwonds.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

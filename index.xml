@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Nayeon’s Data Science Blog</title>
-    <link>https://nayeonkwonds.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Nayeon’s Data Science Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Oct 2024 09:05:31 +0900</lastBuildDate>
-    <atom:link href="https://nayeonkwonds.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Blog Post</title>
-      <link>https://nayeonkwonds.github.io/posts/mypost/</link>
+      <link>http://localhost:1313/posts/mypost/</link>
       <pubDate>Tue, 22 Oct 2024 09:05:31 +0900</pubDate>
-      <guid>https://nayeonkwonds.github.io/posts/mypost/</guid>
+      <guid>http://localhost:1313/posts/mypost/</guid>
       <description>&lt;p&gt;This is a placeholder post to test the blog setup. I’m excited to share my journey in data science, including projects, insights, and learning experiences. Stay tuned for more updates!&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://nayeonkwonds.github.io/about-me/</link>
+      <link>http://localhost:1313/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nayeonkwonds.github.io/about-me/</guid>
+      <guid>http://localhost:1313/about-me/</guid>
       <description>&lt;p&gt;Welcome to my personal website! I am Nayeon, a data scientist with a passion for building meaningful insights through data.&lt;/p&gt;&#xA;&lt;p&gt;I have experience working as a Statistical Analyst at Statistics Korea and am currently transitioning to data science roles in Canada. Through this blog, I share my journey, projects, and learnings in the field of data science.&lt;/p&gt;&#xA;&lt;p&gt;Stay connected!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Portfolio</title>
-      <link>https://nayeonkwonds.github.io/my-project/</link>
+      <link>http://localhost:1313/my-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nayeonkwonds.github.io/my-project/</guid>
+      <guid>http://localhost:1313/my-project/</guid>
       <description>&lt;h3 id=&#34;graduate-research-sungkyunkwan-university&#34;&gt;Graduate Research (Sungkyunkwan University)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Causal Effect of Urban Parks on Children&amp;rsquo;s Happiness&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;The Korean Journal of Applied Statistics (Feb 2023)&lt;/em&gt;&lt;br&gt;&#xA;Led research using causal inference to quantify urban green spaces&amp;rsquo; impact on children&amp;rsquo;s well-being, delivering actionable insights for policymakers.&lt;br&gt;&#xA;&lt;a href=&#34;https://www.kjas.or.kr/journal/view.html?doi=10.5351/KJAS.2023.36.1.063&#34;&gt;Visit Publication&lt;/a&gt; | &lt;a href=&#34;https://github.com/KwonNayeon/urban-parks-childrens-happiness&#34;&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;data-science-competition-project&#34;&gt;Data Science Competition Project&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Predicting Small Business Closures Using Machine Learning&lt;/strong&gt;&lt;br&gt;&#xA;Built and compared advanced ML models (CatBoost, RandomForest, BART) for SME closure prediction, achieving exceptional performance (F1: 0.992, Accuracy: 0.987).&lt;br&gt;&#xA;&lt;a href=&#34;https://github.com/KwonNayeon/numble&#34;&gt;View Project&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;statistics-korea-statistical-intern--analyst&#34;&gt;Statistics Korea (Statistical Intern &amp;amp; Analyst)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;2023 Population and Housing Census Press Release&lt;/strong&gt;&lt;br&gt;&#xA;Led migration from ArcGIS to R, optimizing costs and efficiency in demographic visualization. Automated choropleth map generation process.&lt;br&gt;&#xA;&lt;a href=&#34;https://kostat.go.kr/board.es?mid=a10301020200&amp;amp;bid=203&amp;amp;act=view&amp;amp;list_no=426429&#34;&gt;Korean Version (Full)&lt;/a&gt; | &lt;a href=&#34;https://kostat.go.kr/board.es?mid=a20101000000&amp;amp;bid=11747&amp;amp;act=view&amp;amp;list_no=426676&#34;&gt;English Version (Summary)&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
