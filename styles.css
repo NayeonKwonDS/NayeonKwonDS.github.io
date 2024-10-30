@@ -1,0 +1,239 @@
+/* General Body Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f8ff; /* Light baby blue background */
+    color: #333;
+}
+
+/* Header Styles */
+header {
+    background-color: #89CFF0; /* Baby blue */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    font-size: 1.2em;
+}
+
+/* Navigation Styles */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Section Styles */
+section {
+    padding: 20px;
+    margin: 20px 0;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #89CFF0; /* Baby blue for section headers */
+}
+
+/* Skills Section Styles */
+#skills {
+    padding: 20px;
+    background-color: #f9f9f9; /* Light background for contrast */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+#skills h2 {
+    color: #89CFF0; /* Dark color for heading */
+    margin-bottom: 15px; /* Space below the heading */
+}
+
+#skills ul {
+    list-style-type: none; /* Remove default list bullets */
+    padding: 0;
+}
+
+#skills ul li {
+    color: #333; /* Baby blue text for skills */
+    margin-bottom: 10px; /* Space between list items */
+}
+
+
+#skills ul li b {
+    color: #333; /* Dark color for category labels */
+}
+
+/* Project Styles */
+.project {
+    margin-bottom: 20px;
+}
+
+/* Project Links Styles */
+.project-links {
+    margin-top: 10px;
+}
+
+.project-links a {
+    margin-right: 15px;
+    color: #89CFF0; /* Baby blue color */
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.project-links a:hover {
+    text-decoration: underline;
+}
+
+/* About Me & Contact Styles */
+#about-contact {
+    padding: 20px;
+    margin: 0;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#about-contact .about-me {
+    max-width: 800px;
+    margin: 0;
+    text-align: left;
+}
+
+#about-contact .about-me h3 {
+    color: #89CFF0; /* Baby blue for sub-headers */
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#about-contact .about-me p {
+    margin-bottom: 20px;
+}
+
+#about-contact .contact-icons {
+    display: flex;
+    justify-content: flex-start; /* Align icons to the start (left) */
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+#about-contact .contact-icon {
+    width: 40px; /* Adjust size as needed */
+    height: 40px;
+    transition: transform 0.3s ease;
+}
+
+#about-contact .contact-icon:hover {
+    transform: scale(1.1);
+}
+
+/* Experience, Education, Honors, and Publication Styles */
+.experience, .education-honors, .publication {
+    margin-bottom: 20px;
+}
+
+.experience h3, .education-honors h3, .publication h3 {
+    margin: 0 0 10px;
+    color: #333;
+}
+
+.experience p, .education-honors p, .publication p {
+    margin: 0 0 10px;
+}
+
+/* Volunteering Section Styles */
+#volunteering {
+    padding: 20px;
+    margin: 20px 0;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#volunteering h2 {
+    color: #89CFF0; /* Baby blue for section headers */
+    margin-bottom: 20px; /* Consistent with other section headers */
+}
+
+.volunteering-entry {
+    margin-bottom: 20px;
+}
+
+.volunteering-entry h3 {
+    color: #333;
+    margin: 0 0 10px; /* Consistent with other section sub-headers */
+}
+
+.volunteering-entry p {
+    margin: 0 0 10px;
+}
+
+/* List Styles */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+/* General Link Styles */
+a {
+    color: #89CFF0; /* Baby blue for links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    padding: 10px 20px; /* Reduce padding to make the footer smaller */
+    background-color: #333; /* Dark grey for footer */
+    color: white;
+    font-size: 0.9em; /* Slightly smaller text for footer */
+}
+
+footer p {
+    margin: 10px 0; /* Space between paragraphs */
+}
+
+.cc-logo {
+    margin-top: 10px;
+    width: 50px; /* Reduce size for better appearance */
+    height: auto;
+}
+
+footer a {
+    color: #89CFF0; /* Baby blue for links */
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Container for Centralizing Content */
+.container {
+    max-width: 1200px; /* Adjust this value as needed */
+    margin: 0 auto;
+    padding: 0 15px; /* Adds padding on the sides */
+}
